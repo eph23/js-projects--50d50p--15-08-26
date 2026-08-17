@@ -35,7 +35,7 @@ Pace is flexible — **Date Completed** is blank on purpose since you might knoc
 | Day | Project | Date Completed | Status | Key Concept / Notes |
 |-----|---------|-----------------|--------|----------------------|
 | 1 | Expanding Cards | 15/08/2026 | ✅ Completed |  |
-| 2 | | | ⬜ Not Started | |
+| 2 | Progress Steps | 16/08/2026 | ✅ Completed | |
 | 3 | | | ⬜ Not Started | |
 | 4 | | | ⬜ Not Started | |
 | 5 | | | ⬜ Not Started | |
