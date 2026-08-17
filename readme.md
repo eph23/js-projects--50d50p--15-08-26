@@ -38,7 +38,7 @@ Pace is flexible — **Date Completed** is blank on purpose since you might knoc
 | 2 | Progress Steps | 16/08/2026 | ✅ Completed | |
 | 3 | Rotating Navigation | 17/08/2026 | ✅ Completed | |
 | 4 | Hidden Search Widget | 18/08/2026 | ✅ Completed | |
-| 5 | | | ⬜ Not Started | |
+| 5 | Blurry Loading | 18/08/2026 | ✅ Completed | |
 | 6 | | | ⬜ Not Started | |
 | 7 | | | ⬜ Not Started | |
 | 8 | | | ⬜ Not Started | |
